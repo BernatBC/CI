@@ -1,2 +1,2 @@
-# CI-FIB
-Solucions a les pràctiques de CI de la FIB (Tardow 2021-2022)
+# CI
+List of problems from the college subject: Computer Interfacing 
